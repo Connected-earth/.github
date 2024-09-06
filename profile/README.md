@@ -13,6 +13,8 @@ receive the optimal care they need. PlantKeeper is accessible at: [https://plant
 PlantKeeper has been developed in the context of the PDG (projet de groupe) course that took place during summer 2024 at
 [HEIG-VD](https://heig-vd.ch/).
 
+Watch our [promotional video](https://youtu.be/sNf7IPKWoTk?si=5d7nmSge-ww6skjh)!
+
 ## About the PlantKeeper organization
 
 ### Repositories
